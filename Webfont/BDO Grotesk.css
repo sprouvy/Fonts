@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: 'BDO Grotesk';
-    src: url(https://github.com/sprouvy/Fonts/blob/Utama/Webfont/BDOGrotesk-VF.woff2);
+    src: url('https://raw.githubusercontent.com/sprouvy/Fonts/Utama/Webfont/BDOGrotesk-VF.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
 
