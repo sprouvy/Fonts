@@ -1,0 +1,1 @@
+Category: Sans-serif | License : OFL (SIL Open Font License) | Family: Calcutta | Designer: Manushi Parikh, Satya Rajpurohit | Foundry: Indian Type Foundry | Description: Calcutta is an expansion of Hind font by Indian Type Foundry. It adds 5 oblique styles, making it with 10 styles. Released under the SIL Open Font License, v1.1. These are the converted WOFF2 files only.
